@@ -115,7 +115,7 @@
     {
         "id": "pantalon-03",
         "titulo": "Pantalón 03",
-        "imagen": "./img/pantalones/jeanduo.jpg",
+        "imagen": "./img/pantalones/jeanduo.jpg" ,
         "categoria": {
             "nombre": "Pantalones",
             "id": "pantalones"
